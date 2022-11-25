@@ -1,4 +1,5 @@
 import React from 'react';
+import './countryinfo.css';
 
 function CountryCard(props) {
   return (

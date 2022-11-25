@@ -1,6 +1,7 @@
 import React from 'react';
 import {useState, useEffect} from 'react';
 import CountryCard from './CountryCard';
+import './countryinfo.css'
 
 function CountryInfo() {
   const [countries, setCountries] = useState([]);
